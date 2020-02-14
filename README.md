@@ -8,7 +8,7 @@ This application that is used to write, save, and delete notes. It uses an expre
 
 ## Utilizing the App
 
-- View the app: [Here](https://expressjs-note-taker.herokuapp.com/ "Here")
+- View the app: [Here](https://acucunato-express-note-taker.herokuapp.com/ "Here")
 
 - User clicks "Get Started".
 - User will add desired text to "Note Title" and "Note Text".
