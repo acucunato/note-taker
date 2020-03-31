@@ -20,6 +20,10 @@ This application that is used to write, save, and delete notes. It uses an expre
 
 ![Note-Taker Gif](./img/note-taker.gif "Note-Taker-gif")
 
+## Adds New Note to db.json file
+
+![dbjson](./img/dbjson.png "dbjson")
+
 ## Tech used
 
 - HTML
